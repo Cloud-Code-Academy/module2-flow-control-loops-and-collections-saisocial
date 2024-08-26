@@ -135,7 +135,7 @@ public with sharing class FlowControlLoopsCollections {
     }
 
     /**
-     * Question 6
+     * Question 6 here answer
      * Checks if a string is empty, null, or contains text.
      * Example: checkString("") should return "Empty"
      * @param a The string to check.
